@@ -1,0 +1,17 @@
+{
+  "name": "test-dynamodbstream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.22.0",
+    "bluebird": "^3.5.0",
+    "chance": "^1.0.6",
+    "debug": "^2.6.1",
+    "dynamodb-stream": "^0.1.3",
+    "dynamodb-value": "^1.0.5",
+    "dynogels": "^7.1.0",
+    "joi": "^10.2.2",
+    "node-machine-id": "^1.1.4"
+  }
+}
